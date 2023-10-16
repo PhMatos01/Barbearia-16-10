@@ -1,0 +1,28 @@
+#banner{
+    width: 100%;
+ }
+ 
+ 
+ .principal{
+    background: black;
+    padding: 30px;
+    color:white;
+ }
+ .titulo-principal{
+    padding-left: 70px;
+ }
+ .titulo-centralizado{
+   text-align: center;
+ }
+
+ #missao{
+   font-size: 20px;
+ }
+
+ #imagembeneficios {
+    width: 100%;
+ }
+
+ .imagemnoivo{
+    width: 100%;
+ }
